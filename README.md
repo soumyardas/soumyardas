@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+My name is Soumya. I am a computational physicist with over 8 years of research experience specializing in mathematical modeling of materials and detector simulation. I have authored seven research articles published in reputed journals and have presented my work at international conferences.
+
+In addition to my research, I have extensive experience instructing students in physics, mathematics, and programming. Over the past year, I transitioned to the field of data analytics and machine learning, where I have successfully executed four open-source analytics projects focused on healthcare, precision agriculture, and climate risk modeling.
+
+- 🔭 I’m currently working on Machine Learning Projects pertaining to Credit Risk Modeling
+- 🌱 I’m currently learning Deep Learning and Natural Language Processing
+- 👯 I’m looking to collaborate on Data Science Projects
+- 📫 How to reach me: <soumyardas@soumyardas.com>
+- 😄 Pronouns: He/Him
+
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
