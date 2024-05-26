@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Soumya. I am a computational physicist with over 8 years of research experience specializing in mathematical modeling of materials and detector simulation. I have authored seven research articles published in reputed journals and have presented my work at international conferences.
+My name is Soumya. I am a computational physicist with over eight years of research experience, specializing in the mathematical modeling of materials and detector simulation. I have authored seven research articles published in reputed journals and have presented my work at international conferences.
 
 In addition to my research, I have extensive experience instructing students in physics, mathematics, and programming. Over the past year, I transitioned to the field of data analytics and machine learning, where I have successfully executed four open-source analytics projects focused on healthcare, precision agriculture, and climate risk modeling.
 
