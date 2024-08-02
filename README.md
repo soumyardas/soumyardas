@@ -1,8 +1,12 @@
 ## Hi there 👋
 
-My name is Soumya. I am a computational physicist with over eight years of research experience, specializing in the mathematical modeling of materials and detector simulation. I have authored seven research articles published in reputed journals and have presented my work at international conferences.
+I am a data scientist with over a year of experience in data analytics and machine learning. My expertise lies in statistical analysis, mathematical modeling, and applying machine learning to tackle diverse real-world and business challenges. I have successfully completed four open-source data science projects with Omdena as a Machine Learning Engineer, focusing on healthcare, precision agriculture, climate, and credit risk modeling.
 
-In addition to my research, I have extensive experience instructing students in physics, mathematics, and programming. Over the past year, I transitioned to the field of data analytics and machine learning, where I have successfully executed four open-source analytics projects focused on healthcare, precision agriculture, and climate risk modeling.
+Previously, I had over 8 years of research experience in computational physics. I hold a Master’s degree in Physics from IIT Delhi and have specialized in modeling carbon-based 2D materials such as graphene and its heterostructures. My research has explored the structural, electronic, and magnetic properties of these materials. Additionally, I have contributed to neutrino detector simulations at Fermilab's Deep Underground Neutrino Experiment (DUNE) to study neutrino-matter interactions.
+
+I have authored seven research articles on computational materials modeling in reputed journals, presented at international conferences, and taught physics, mathematics, and coding to high school and undergraduate students. I enjoy solving complex problems and working in collaborative environments to support informed business decisions.
+
+Feel free to connect with me at [soumyardas@soumyardas.com](mailto:soumyardas@soumyardas.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/soumyardas).
 
 - 🔭 I’m currently working on machine learning projects pertaining to credit risk modeling.
 - 🌱 I’m currently learning deep learning and natural language processing.
