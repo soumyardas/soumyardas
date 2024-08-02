@@ -6,7 +6,7 @@ Previously, I had over 8 years of research experience in computational physics. 
 
 I have authored seven research articles on computational materials modeling in reputed journals, presented at international conferences, and taught physics, mathematics, and coding to high school and undergraduate students. I enjoy solving complex problems and working in collaborative environments to support informed business decisions.
 
-Feel free to connect with me at [soumyardas@soumyardas.com](mailto:soumyardas@soumyardas.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/soumyardas).
+Feel free to connect with me at [soumyardas@soumyardas.com](mailto:soumyardas@soumyardas.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/soumyardas90).
 
 - 🔭 I’m currently working on machine learning projects pertaining to credit risk modeling.
 - 🌱 I’m currently learning deep learning and natural language processing.
