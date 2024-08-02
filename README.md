@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I am a data scientist with over a year of experience in data analytics and machine learning. My expertise lies in statistical analysis, mathematical modeling, and applying machine learning to tackle diverse real-world and business challenges. I have successfully completed four open-source data science projects with Omdena as a Machine Learning Engineer, focusing on healthcare, precision agriculture, climate, and credit risk modeling.
+I am a data scientist with over a year of experience in data analytics and machine learning. My focus is on using statistical analysis and machine learning to address real-world and business challenges. I have worked on projects in healthcare, precision agriculture, climate, and credit risk modeling with Omdena.
 
-Previously, I had over 8 years of research experience in computational physics. I hold a Master’s degree in Physics from IIT Delhi and have specialized in modeling carbon-based 2D materials such as graphene and its heterostructures. My research has explored the structural, electronic, and magnetic properties of these materials. Additionally, I have contributed to neutrino detector simulations at Fermilab's Deep Underground Neutrino Experiment (DUNE) to study neutrino-matter interactions.
+Previously, I had over 8 years of research experience in computational physics. I hold a Master’s degree in Physics from IIT Delhi and have specialized in computational modeling of carbon-based 2D materials such as graphene and its heterostructures. Additionally, I have contributed to neutrino detector simulations at Fermilab's Deep Underground Neutrino Experiment (DUNE) to study neutrino-matter interactions.
 
 I have authored seven research articles on computational materials modeling in reputed journals, presented at international conferences, and taught physics, mathematics, and coding to high school and undergraduate students. I enjoy solving complex problems and working in collaborative environments to support informed business decisions.
 
