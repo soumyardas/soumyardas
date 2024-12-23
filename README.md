@@ -25,7 +25,7 @@ In my research career, I authored seven publications on computational materials 
 
 ### **Programming:**
 - ![Python logo](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-  - **Python** (NumPy, SciPy, Pandas, Matplotlib, Seaborn, PyTorch, TensorFlow/Keras)
+  - **Python** (NumPy, SciPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, PyTorch, TensorFlow/Keras)
   
 ### **Databases:**
 - ![SQL logo](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)  
